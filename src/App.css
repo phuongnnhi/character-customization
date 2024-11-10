@@ -8,7 +8,7 @@ body {
   padding: 0px;
   min-height: 100vh;
   margin: 0;
-  background-image: url("/background-character.jpg");
+  background-image: url("/public/background-character.jpg");
   background-size: cover;
 }
 
